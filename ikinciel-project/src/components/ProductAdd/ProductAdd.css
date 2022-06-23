@@ -1,0 +1,157 @@
+.ProductAdd__page {
+  width: 1243px;
+  margin: auto;
+  padding-top: 100px;
+  
+}
+
+.ProductAdd__title {
+  display: flex;
+}
+
+.ProductAdd__title Label {
+  width: 120px;
+  margin-left: 300px;
+  margin-top: 10px;
+  font-size: 20px;
+  padding-left: 15px;
+  color: #1E2B5A;
+}
+
+.ProductAdd__title Input {
+  width: 500px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.ProductAdd__category {
+  display: flex;
+}
+
+.ProductAdd__category Label {
+  width: 120px;
+  margin-left: 300px;
+  margin-top: 10px;
+  font-size: 20px;
+  padding-left: 15px;
+  color: #1E2B5A;
+}
+
+.ProductAdd__category Input {
+  width: 500px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.ProductAdd__profile {
+  display: flex;
+}
+
+.ProductAdd__profile Label {
+  width: 120px;
+  margin-left: 300px;
+  margin-top: 10px;
+  font-size: 20px;
+  padding-left: 15px;
+  color: #1E2B5A;
+}
+
+.ProductAdd__profile Input {
+  width: 500px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.ProductAdd__description {
+  display: flex;
+}
+
+.ProductAdd__description Label {
+  width: 120px;
+  margin-left: 300px;
+  margin-top: 10px;
+  font-size: 20px;
+  padding-left: 15px;
+  color: #1E2B5A;
+}
+
+.ProductAdd__price {
+  display: flex;
+}
+
+.ProductAdd__price Label {
+  width: 120px;
+  margin-left: 300px;
+  margin-top: 10px;
+  font-size: 20px;
+  padding-left: 15px;
+  color: #1E2B5A;
+}
+
+.ProductAdd__price Input {
+  width: 500px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.ProductAdd__place {
+  display: flex;
+}
+
+.ProductAdd__place Label {
+  width: 120px;
+  margin-left: 300px;
+  margin-top: 10px;
+  font-size: 20px;
+  padding-left: 15px;
+  color: #1E2B5A;
+}
+
+.ProductAdd__place Input {
+  width: 500px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.ProductAdd__image {
+  margin-left: 15px;
+}
+
+.ProductAdd__image Label {
+  width: 120px;
+  margin-left: 50px;
+  font-size: 20px;
+  padding-left: 15px;
+  color: #1E2B5A;
+}
+
+.ProductAdd__image Input {
+  width: 200px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.image_div {
+  display: flex;
+  margin-left: 310px;
+}
+
+.ProductAdd__button {
+  margin-left: 910px;
+  margin-bottom: 300px;
+  margin-top: 20px ;
+  width: 100px;
+  background-color: #1E2B5A;
+}
+
+.ProductAdd__signIn p {
+  margin: auto;
+  width: 300px;
+  margin-top: 20px;
+}

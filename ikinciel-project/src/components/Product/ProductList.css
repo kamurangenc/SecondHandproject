@@ -1,0 +1,16 @@
+.productList__page {
+  width: 1650px;
+  margin: auto;
+
+}
+
+.productList__search {
+  position: absolute;
+  left: 0px;
+  width: 30px;
+  margin: auto;
+
+  height: 60px;
+  padding-top: 2px;
+  margin-bottom: 40px;
+}

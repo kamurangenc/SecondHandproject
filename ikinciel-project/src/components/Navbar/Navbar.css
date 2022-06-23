@@ -1,0 +1,31 @@
+.Navbar__page{
+    width: 1300px;
+    margin: auto;
+}
+
+.Navbar__count{
+    height: 10px;
+}
+
+.Navbar__ads{
+    width: 100px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.Navbar__addItems{
+    width: 125px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.Navbar__ads_add{
+    padding-left:180%;
+    float: right;
+    display: flex;
+}
+
+.Navbar__button{
+    display: flex;
+    width: 300px;
+}

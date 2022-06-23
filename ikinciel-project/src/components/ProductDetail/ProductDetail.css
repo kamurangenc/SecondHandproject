@@ -1,0 +1,160 @@
+.ProductDetail__page {
+  width: 1243px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.ProductDetail__detail {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.ProductDetail__image {
+  height: 400px;
+  width: 480px;
+  padding-right: 40px;
+  padding-top: 35px;
+  background-color: #f5faf5;
+  border: 1px solid #c4e2c4;
+  border-radius: 5px;
+}
+
+.ProductDetail__image img {
+  object-fit: scale-down;
+  background-color: #f5faf5;
+  padding-right: 45px;
+}
+
+.ProductDetail__userInfo {
+  float: left;
+  height: 85px;
+  width: 550px;
+  padding: 15px 10px 10px 10px;
+  margin-left: 30px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f5faf5;
+  border-radius: 5px;
+  border: 10px;
+  border: 1px solid #c4e2c4;
+}
+
+.ProductDetail__userPhoto{
+    width: 100px;
+    height: 83px;
+    margin-top: -15px;
+    padding-top: 20px;
+}
+
+.ProductDetail__userPhoto img{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    margin: auto;
+    margin-left: 15px;
+    margin-top: -13px;
+    object-fit: cover;
+    border: 1px solid;
+    border-color: #95b395;
+}
+
+.ProductDetail__username-gmail{
+    margin: auto;
+    padding-top: 9px;
+    margin-top: -14px;
+    margin-left: 10px;
+}
+
+.ProductDetail__username-gmail p{
+    font-size: medium;
+}
+
+.ProductDetail__chat-button{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.ProductDetail__title {
+  float: left;
+  height: 70px;
+  width: 550px;
+  padding: 15px 10px 10px 10px;
+  margin-left: 30px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f5faf5;
+  border-radius: 5px;
+  border: 10px;
+  border: 1px solid #c4e2c4;
+}
+
+.ProductDetail__cp {
+  float: left;
+  height: 70px;
+  width: 550px;
+  padding: 15px 10px 10px 10px;
+  margin-left: 30px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f5faf5;
+  border-radius: 5px;
+  border: 1px solid #c4e2c4;
+}
+
+.ProductDetail__price {
+  float: left;
+  height: 70px;
+  width: 550px;
+  padding: 15px 10px 10px 10px;
+  margin-left: 30px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f5faf5;
+  border-radius: 5px;
+  border: 1px solid #c4e2c4;
+}
+
+.ProductDetail__description {
+  float: left;
+  height: 230px;
+  width: 550px;
+   padding: 15px 10px 10px 10px;
+  margin-left: 30px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f5faf5;
+  border-radius: 5px;
+  border: 1px solid #c4e2c4;
+  overflow: hidden;
+}
+
+.ProductDetail__description p {
+  font-size: large;
+  color: darkslategrey;
+}
+
+.ProductDetail__image img {
+  border-radius: 5px;
+  border: 0px;
+  height: 325px;
+  width: 400px;
+  margin: auto;
+  margin-left: 40px;
+}
+
+.ProductDetail__button {
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.ProductDetail__link {
+  color: white;
+  text-decoration: none;
+}

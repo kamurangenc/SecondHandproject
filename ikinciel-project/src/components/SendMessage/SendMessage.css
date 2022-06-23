@@ -1,0 +1,18 @@
+.sendMessage__form{
+    display: flex;
+    margin-top: 10px;
+}
+
+.sendMessage__form Input{
+    width: 1000px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 60px;
+}
+
+.sendMessage__form Button{
+    width: 100px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 10px;
+}

@@ -1,0 +1,38 @@
+.ProductItem__card{
+    width: 320px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+
+.ProductItem__image{
+    width: 307px;
+    height: 250px;
+    border: 0px;
+    background-color: whitesmoke;
+    object-fit: scale-down;
+    border-radius: 5px;
+    margin-left: -24px;
+}
+
+
+.ProductItem__div1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.ProductItem__div2 {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding-right: 20px;
+
+}
+
+.ProductItem__button{
+    color:aliceblue;
+    text-decoration: none;
+}

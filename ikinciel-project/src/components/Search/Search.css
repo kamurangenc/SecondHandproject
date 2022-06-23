@@ -1,0 +1,47 @@
+.Search__page{
+   
+  
+    
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.Search__category_div {
+    margin-right: 50px;
+    right: 0px;
+    left: 0px;
+    width: 300px;
+    margin-top: 20px;
+
+}
+
+.Search__category_div p{
+    margin-right: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.Search__place_div{
+    margin-right: 15px;
+    width: 300px;
+    margin-top: 10px;
+
+}
+
+.Search__place_div p{
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+.Search__title_div{
+    width: 300px;
+    margin-top: 10px;
+
+}
+
+.Search__title_div p{
+    width: 792px;
+    border: 1px solid #e4e4e7;
+    font-size: 14px;
+    border-radius: 5px;
+}
